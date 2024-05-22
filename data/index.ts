@@ -71,10 +71,10 @@ export const gridItems = [
 
 export const projects = [
 	{
-		id: 2,
+		id: 1,
 		title: "Horzion - Banking App",
 		des: "Fast and Easy banking with Horizion - demo site",
-		img: "/p2.svg",
+		img: "/horizion.png",
 		iconLists: [
 			"/next.svg",
 			"/tail.svg",
@@ -85,10 +85,10 @@ export const projects = [
 		link: "https://bankapp-amber.vercel.app",
 	},
 	{
-		id: 3,
+		id: 2,
 		title: "AI Image SaaS - Canva Application",
 		des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-		img: "/p3.svg",
+		img: "/VV.png",
 		iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
 		link: "https://visualverse.vercel.app",
 	},
